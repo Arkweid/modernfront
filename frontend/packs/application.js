@@ -1,3 +1,2 @@
-import "./application.css";
-
-console.log("Webpack test");
+import "init";
+import "components/page/page";
